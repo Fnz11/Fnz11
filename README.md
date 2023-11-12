@@ -7,6 +7,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun Fact: Coding is my hobby 
 - 📫 How to reach me: finz1112@gmail.com
+- 📌 Linkedin: https://www.linkedin.com/in/ys-fik-214387286/
 
 #### Skills
 HTML, CSS, JavaScript, ReactJs, NextJs, NodeJs, MongoDb, PostgreSql, Firebase 
