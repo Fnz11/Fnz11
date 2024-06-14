@@ -5,7 +5,7 @@
     I am a <b>Fullstack Blockchain Developer</b> 🚀 from <b>Surakarta, Indonesia</b> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="16" />.<br />
     I specialize in creating high-quality, responsive, and clean-coded websites and applications using Next.js, Node.Js, Smart Contract, and Web3 integrations.</p>
     <div>
-        <a href="https://www.linkedin.com/in/fikri-nurdiansyah" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/fikri-nurdiansyah-214387286/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:finz1112@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     </div>
 </div>
