@@ -24,7 +24,7 @@
 <div>
     <h2>🧰 Hard Skills</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,mysql,mongodb,nodejs,express,solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mysql,postgresql,mongodb,nodejs,express,solidity" />
   </p>
 </div>
 
