@@ -17,7 +17,7 @@
         <li>🎓 Undergraduate in Informatic Engineering at Sebelas Maret University</li>
         <li>📖 Currently learning about advanced blockchain technologies.</li>
         <li>👀 Check out <a href="https://www.ysfik.my.id" target="_blank">My Portfolio</a></li>
-        <li>📄 Here's my <a href="https://www.ysfik.my.id/assets/resources/resume.pdf" target="_blank">Resume</a></li>
+        <li>📄 Here's my <a href="https://www.ysfik.my.id/Resume.pdf" target="_blank">Resume</a></li>
     </ul>
 </div>
 
