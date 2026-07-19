@@ -1,8 +1,8 @@
 <div align="center">
     <h1>Hey there, I'm <a href="https://www.ysfik.my.id" target="_blank">Fikri Nurdiansyah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <br/><br/>
-    <p>🙏🏻 Welcome to my GitHub profile!<br />
-    I am a <b>Fullstack Blockchain Developer</b> 🚀 from <b>Surakarta, Indonesia</b> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="16" />.<br />
+    <p>Hi there!<br />
+    I am a <b>Fullstack Blockchain Developer</b><br />
     I specialize in creating high-quality, responsive, and clean-coded websites and applications using Next.js, Node.Js, Smart Contract, and Web3 integrations.</p>
     <div>
         <a href="https://www.linkedin.com/in/fikri-nurdiansyah-214387286/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,17 +14,17 @@
     <h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" /> What I'm up to</h2>
     <ul>
         <li>👨🏻‍💻 Currently work as a freelancer Fullstack Blockchain Developer</li>
-        <li>🎓 Undergraduate in Informatic Engineering at Sebelas Maret University</li>
+        <li>🎓 Graduated in Informatic Engineering at Sebelas Maret University</li>
         <li>📖 Currently learning about advanced blockchain technologies.</li>
-        <li>👀 Check out <a href="https://www.ysfik.my.id" target="_blank">My Portfolio</a></li>
-        <li>📄 Here's my <a href="https://www.ysfik.my.id/Resume.pdf" target="_blank">Resume</a></li>
+        <li>👀 Check out <a href="https://www.ysfik.com" target="_blank">My Portfolio</a></li>
+        <li>📄 Here's my <a href="https://www.ysfik.com/Resume.pdf" target="_blank">Resume</a></li>
     </ul>
 </div>
 
 <div>
     <h2>🧰 Hard Skills</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mysql,postgresql,mongodb,nodejs,express,solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,next,tailwind,mysql,postgresql,mongodb,nodejs,express,solidity,go,graphql,prisma" />
   </p>
 </div>
 
